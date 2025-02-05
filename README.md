@@ -30,32 +30,10 @@ Recent Data Science graduate from the University at Buffalo, eager to apply my s
 ![Agile](https://img.shields.io/badge/Agile-79A53C?style=flat&logo=agile&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat&logo=github-actions&logoColor=white)
 
-## Credentials 
+### Key Projects
+- **[House Price Prediction](https://github.com/MK9ei82/portfolio/tree/Real_estate_price_prediction)** : A machine learning model that preidcts price of a house in King County in the US
 
-## Credentials
 
-<p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); grid-gap: 10px;">
-
-  <div>
-    <a href="https://www.credly.com/badges/f7a3293f-5bfc-440c-adad-f28bbed10e36"><img src="https://api.credly.com/v1/badges/f7a3293f-5bfc-440c-adad-f28bbed10e36/image" 
-  </div>
-
-  <div>
-    <a href="https://www.credly.com/badges/654356ed-d72a-4be0-9f17-5377162d8830"><img src="https://api.credly.com/v1/badges/654356ed-d72a-4be0-9f17-5377162d8830/image" 
-  </div>
-
-  <div>
-    <a href="https://www.credly.com/earner/earned/badge/5a9b1c0e-4b6e-459b-92c7-fd83c2e08821"><img src="https://api.credly.com/v1/badges/5a9b1c0e-4b6e-459b-92c7-fd83c2e08821/image" 
-  </div>
-
-  <div>
-    <a href="https://www.credly.com/badges/e847353a-bbfd-4bb6-b3dc-e756ac9afa35"><img src="https://api.credly.com/v1/badges/e847353a-bbfd-4bb6-b3dc-e756ac9afa35/image" 
-  </div>
-
-  <div>
-    <a href="https://www.credly.com/earner/earned/badge/5a9b1c0e-4b6e-459b-92c7-fd83c2e08821"><img src="https://api.credly.com/v1/badges/5a9b1c0e-4b6e-459b-92c7-fd83c2e08821/image" 
-  </div>
-
-</div>
-</p>
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/komalkrishnamaddali982/)
+- [Email](mailto:komalkri@buffalo.edu)
