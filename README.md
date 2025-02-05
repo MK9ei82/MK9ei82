@@ -27,5 +27,5 @@ Recent Data Science graduate from the University at Buffalo, eager to apply my s
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-79A53C?style=flat&logo=agile&logoColor=white)  *(using a flat style for better integration)*
-![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat&logo=github-actions&logoColor=white) *(using flat and GitHub Actions logo)*
+![Agile](https://img.shields.io/badge/Agile-79A53C?style=flat&logo=agile&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat&logo=github-actions&logoColor=white)
