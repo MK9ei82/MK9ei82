@@ -34,6 +34,16 @@ Recent Data Science graduate from the University at Buffalo, eager to apply my s
 - **[Buffalo Weather_Dashboard](https://github.com/MK9ei82/OpenWeather_Dashboard)**: Weather Data Analysis and Visualization for Buffalo, NY
 - **[House Price Prediction](https://github.com/MK9ei82/portfolio/tree/Real_estate_price_prediction)** : A machine learning model that preidcts price of a house in King County in the US
 
+## Credentials 
+<p>
+  <img width="150" src="https://github.com/MK9ei82/MK9ei82/blob/main/build-and-deploy-machine-learning-solutions-on-vert.png" />
+  <img width="150" src="https://github.com/MK9ei82/MK9ei82/blob/main/build-custom-processors-with-document-ai-skill-badg.png" />
+  <img width="150" src="https://github.com/MK9ei82/MK9ei82/blob/main/derive-insights-from-bigquery-data-skill-badge.png" />
+  <img width="150" src="https://github.com/MK9ei82/MK9ei82/blob/main/develop-genai-apps-with-gemini-and-streamlit-skill-.png" />
+  <img width="150" src="https://github.com/MK9ei82/MK9ei82/blob/main/prepare-data-for-ml-apis-on-google-cloud-skill-badg.png" />
+ 
+</p>
+
 
 
 ### Connect with Me
