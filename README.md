@@ -30,6 +30,9 @@ Recent Data Science graduate from the University at Buffalo, eager to apply my s
 ![Agile](https://img.shields.io/badge/Agile-79A53C?style=flat&logo=agile&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat&logo=github-actions&logoColor=white)
 
+### Projects in Progress
+- **[Uber Rides Analytics](https://github.com/MK9ei82/Uber-Rides-Analytics)**: Data Analytics and Visualization for Uber Rides based on TLC Trip Record Data in GCP
+
 ### Key Projects
 - **[Buffalo Weather_Dashboard](https://github.com/MK9ei82/OpenWeather_Dashboard)**: Weather Data Analysis and Visualization for Buffalo, NY
 - **[House Price Prediction](https://github.com/MK9ei82/portfolio/tree/Real_estate_price_prediction)** : A machine learning model that preidcts price of a house in King County in the US
