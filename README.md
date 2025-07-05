@@ -31,9 +31,11 @@ Recent Data Science graduate from the University at Buffalo, eager to apply my s
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat&logo=github-actions&logoColor=white)
 
 ### Key Projects
+- **[CAN Signal Dashboard](https://github.com/MK9ei82/can-signal-dashboard)**: Cloud-native tool to decode CAN logs, parse .dbc files, visualize signal behavior during HIL, vehicle testing. Built with Python, Streamlit to replace license-bound tools, enable remote diagnostics
 - **[Uber Rides Analytics](https://github.com/MK9ei82/Uber-Rides-Analytics)**: Data Analytics and Visualization for Uber Rides based on TLC Trip Record Data for NYC in GCP
 - **[Buffalo Weather_Dashboard](https://github.com/MK9ei82/OpenWeather_Dashboard)**: Weather Data Analysis and Visualization for Buffalo, NY
 - **[House Price Prediction](https://github.com/MK9ei82/portfolio/tree/Real_estate_price_prediction)** : A machine learning model that preidcts price of a house in King County in the US
+
 
 ## Credentials and Badges
 <p>
